@@ -5,7 +5,7 @@ Console route and SQL debug logging for Laravel applications.
 ## Installation
 
 ```bash
-composer require eventapo/laravel-debug-loggers
+composer require bekunika/debug-loggers
 ```
 
 Laravel package discovery will register the service provider automatically.

@@ -1,5 +1,5 @@
 {
-    "name": "eventapo/laravel-debug-loggers",
+    "name": "bekunika/debug-loggers",
     "description": "Laravel package for console route and SQL debug logging.",
     "type": "library",
     "license": "MIT",
