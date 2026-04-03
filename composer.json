@@ -3,6 +3,12 @@
     "description": "Laravel package for console route and SQL debug logging.",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Beka Meshvildishvili",
+            "email": "meshvildishvili@gmail.com"
+        }
+    ],
     "keywords": [
         "laravel",
         "debug",
